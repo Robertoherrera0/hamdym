@@ -1,6 +1,6 @@
 # Hamiltonian trajectories as a continuous local search
 
-Code for the CMP_SC 8050 final project. The local search starts at a point x, releases a particle from rest, follows K steps of an integrator, and moves to the lowest point on that path (the start included). Cost is counted in gradient and function evaluations.
+The local search starts at a point x, releases a particle from rest, follows K steps of an integrator, and moves to the lowest point on that path (the start included). Cost is counted in gradient and function evaluations.
 
 ## Setup
 
